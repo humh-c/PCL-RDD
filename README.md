@@ -1,8 +1,6 @@
 
 #Towards A Real-World Road Damage Detection Dataset
 
-For now, we are releasing the val(mini) dataset and training/evaluation scripts, but we will release the full RDD-19C dataset as soon as a future paper receives it.
+We have currently released the val(mini) dataset(https://drive.google.com/file/d/1m_JCFbFF8S0HqxVj0_72R6Kmbe_t4teQ/view?usp=drive_link). 
 
-#Val Dataset download link: https://drive.google.com/file/d/1m_JCFbFF8S0HqxVj0_72R6Kmbe_t4teQ/view?usp=drive_link
-
-Full dataset, coming soon
+Since the dataset still contains personal privacy information, such as faces and license plates, further processing is required. The complete dataset will be made available as soon as the privacy concerns are addressed.
